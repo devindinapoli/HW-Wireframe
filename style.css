@@ -51,7 +51,7 @@ section {
     background-color: #ebebeb;
     float: left;
     margin-top: 10px;
-    width: 500px;
+    width: 495px;
     margin-left: 100px;
     position: relative;
     height: 275px;
@@ -87,7 +87,7 @@ h4 {
     color: #777;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 15px;
+    padding: 17px;
     margin: 8px;
     
     
@@ -99,7 +99,7 @@ p {
     color: #777;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 15px;
+    padding: 17px;
     margin: 8px;
     
     
@@ -111,9 +111,10 @@ aside {
     color: #777;
     float: right;
     height: 235px;
-    width: 300px;
+    width: 305px;
     margin-top: 10px;
     padding: 20px;
+    padding-right: 25px;
     text-align:center;
     margin-bottom: 10px;
 }
