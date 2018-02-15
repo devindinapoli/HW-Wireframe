@@ -5,12 +5,14 @@ body {
    font-size: 18px;
    line-height: 150%;
    width: 960px;
+   margin: 0 auto;
 
 }
 
 header{
     background-color: #ebebeb;
-    margin-left: 100px;
+    
+
     
   
 }
@@ -29,7 +31,7 @@ h1 {
 
 nav {
     background-color: #ebebeb;
-    margin-left: 100px;
+    
    
     
    
@@ -52,7 +54,7 @@ section {
     float: left;
     margin-top: 10px;
     width: 495px;
-    margin-left: 100px;
+    
     position: relative;
     height: 275px;
     margin-bottom: 10px;
@@ -111,7 +113,7 @@ aside {
     color: #777;
     float: right;
     height: 235px;
-    width: 305px;
+    width: 400px;
     margin-top: 10px;
     padding: 20px;
     padding-right: 25px;
@@ -127,7 +129,7 @@ footer {
     text-align: center;
     margin-bottom: 20px;
     padding: 25px 0;
-    margin-left: 100px;
+   
     
 
 
